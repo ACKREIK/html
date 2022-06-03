@@ -1,7 +1,7 @@
 const { browser } = require("jshint/src/vars");
 
-document.getElementById("button").onclick = function(){
-    browser.openTab("./pg2.html");
+document.getElementById("button1").onclick = function(){
+    document.location.href = "./pg2.html";
     console.log("button clicked");
-    alert("You have successfully registered!");
+    alert("button clicked");
 };
