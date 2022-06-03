@@ -1,0 +1,30 @@
+H1 {
+    text-align: center;
+    color: #EF798A;
+}
+H2 {
+    text-align: center;
+    color: #69A2B0;
+}
+
+body {
+    background-color: #5D576B;
+}
+
+p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    color: #eceec8;
+}
+
+li {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    color: #eceec8;
+}
+button {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    color: #69A2B0;
+    background-color: #5D576B;  
+}
